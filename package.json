@@ -1,0 +1,22 @@
+{
+  "name": "nodejshello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ste5022424/NodeJsHello/issues"
+  },
+  "homepage": "https://github.com/ste5022424/NodeJsHello#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^24.9.0",
+    "jest-junit": "^10.0.0",
+    "supertest": "^4.0.2"
+  }
+}
